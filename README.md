@@ -22,6 +22,7 @@ I am a machine learning scientist and a lecturer with a consuming passion for th
 
 [![LinkedIn](https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png)](https://linkedin.com/in/damoon-robatian/)
 
+<img src="https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png" width=100 height=100>
 ```
 ```
 </p>
