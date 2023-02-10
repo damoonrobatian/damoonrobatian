@@ -15,3 +15,15 @@ I am a machine learning scientist and a lecturer with a consuming passion for th
 ```
 </p>
 </details>
+
+
+<details><summary>$\textcolor{orange}{\texttt{Social\ Accounts}}$</summary>
+<p>
+
+[![LinkedIn](https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png)](https://linkedin.com/in/damoon-robatian/)
+
+```
+```
+</p>
+</details>
+
