@@ -1,7 +1,7 @@
 # Damoon Robatian
 I am a machine learning scientist and a lecturer with a consuming passion for theoretical and applied data science. 
 
-<details><summary>$\textcolor{violet}{More\ about\ Me}$</summary>
+<details><summary>$\textcolor{violet}{\texttt{More\ about\ Me}}$</summary>
 <p>
 
 ```
