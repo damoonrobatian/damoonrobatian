@@ -22,7 +22,28 @@ I am a machine learning scientist and a lecturer with a consuming passion for th
 
 [![LinkedIn](https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png)](https://linkedin.com/in/damoon-robatian/)
 
+[![LinkedIn](<img src="https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png" width=100 height=100>)](https://linkedin.com/in/damoon-robatian/)
+
 <img src="https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png" width=100 height=100>
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/LI-In-Bug.png
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/gmail.png
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/gmail2.png
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/linkedin_gold.png
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/linkedin_prem1.png
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/mcgill.jpg
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/mcgill.png
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/mcgill_sig_red.jpg
+
+https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/mcgill_white_on_red.png
+
 ```
 ```
 </p>
