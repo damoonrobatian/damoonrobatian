@@ -1,3 +1,4 @@
+## Introduction
 $\textcolor{lime}{\texttt{I\ am\ a\ machine\ learning\ scientist\ and\ a\ lecturer\ with\ a\ consuming\ passion\ for}}$
 $\textcolor{lime}{\texttt{theoretical\ and\ applied\ data\ science.}}$ 
 
