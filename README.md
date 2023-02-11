@@ -1,4 +1,4 @@
-## $\textcolor{blue}{\texttt{Introduction}}$
+# $\textcolor{blue}{\texttt{Introduction}}$
 $\textcolor{teal}{\texttt{I\ am\ a\ machine\ learning\ scientist\ and\ a\ lecturer\ with\ a\ consuming\ passion\ for}}$
 $\textcolor{teal}{\texttt{theoretical\ and\ applied\ data\ science.}}$ 
 
