@@ -1,7 +1,7 @@
 # Damoon Robatian
-I am a machine learning scientist and a lecturer with a consuming passion for theoretical and applied data science. 
+$\textcolor{lime}{\texttt{I\ am\ a\ machine\ learning\ scientist\ and\ a\ lecturer\ with\ a\ consuming\ passion\ for\ theoretical\ and\ applied\ data\ science.}}$ 
 
-<details><summary>$\textcolor{violet}{\texttt{More\ about\ Me}}$</summary>
+<details><summary>$\textcolor{orange}{\texttt{More\ about\ Me}}$</summary>
 <p>
 
 ```
@@ -17,7 +17,7 @@ I am a machine learning scientist and a lecturer with a consuming passion for th
 </details>
 
 
-<details><summary>$\textcolor{orange}{\texttt{Other\ Profiles}}$</summary>
+<details><summary>$\textcolor{violet}{\texttt{Other\ Profiles}}$</summary>
 <p>
 
 [<img src="https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png" width=80 height=80>](https://linkedin.com/in/damoon-robatian/)<br>
