@@ -17,12 +17,11 @@ I am a machine learning scientist and a lecturer with a consuming passion for th
 </details>
 
 
-<details><summary>$\textcolor{orange}{\texttt{Social\ Accounts}}$</summary>
+<details><summary>$\textcolor{orange}{\texttt{Other\ Profiles}}$</summary>
 <p>
 
-[<img src="https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png" width=100 height=100>](https://linkedin.com/in/damoon-robatian/)
-
-[<img src="https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/mcgill.png" width=200>](https://www.mcgill.ca/continuingstudies/damoon-robatian)
+[<img src="https://github.com/damoonrobatian/damoonrobatian/blob/b0b0d1188e6f594e5afb28807a5fba9975b6d515/logos/linkedin_glow.png" width=80 height=80>](https://linkedin.com/in/damoon-robatian/)<br>
+[<img src="https://github.com/damoonrobatian/damoonrobatian/blob/bda1f5cb87d9538ac134ab696236deec7132b8cc/logos/mcgill.png" width=160>](https://www.mcgill.ca/continuingstudies/damoon-robatian)
 
 </p>
 </details>
