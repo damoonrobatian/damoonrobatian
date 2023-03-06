@@ -1,6 +1,7 @@
-## $\textcolor{blue}{\texttt{Introduction}}$
-$\textcolor{teal}{\texttt{I\ am\ a\ machine\ learning\ scientist\ and\ a\ lecturer\ with\ a\ consuming\ passion\ for}}$<br>
-$\textcolor{teal}{\texttt{theoretical\ and\ applied\ data\ science.}}$ 
+## ${\color{blue}{\texttt{Introduction}}}$
+$\texttt{I\ am\ a\ machine\ learning\ scientist\ and\ a\ lecturer\ with\ a\ consuming\ passion\ for}$<br>
+$\texttt{theoretical\ and\ applied\ data\ science.}$ 
+
 
 <details><summary>$\textcolor{orange}{\texttt{More\ about\ Me}}$</summary>
 <p>
